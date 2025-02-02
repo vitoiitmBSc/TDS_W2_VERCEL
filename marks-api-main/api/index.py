@@ -33,6 +33,6 @@ git commit -m "Initial commit"
 Create the repository in the Github website and then connect remotely
 git remote add origin https://github.com/vitoiitmBSc/Just_check_again
 # This will push the file in to the repository
-git push -u origin master
+git push -u origin master check again
 
 '''
